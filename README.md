@@ -18,7 +18,8 @@ This is a simple weather app built with React that allows users to search for we
 
 1. Clone the repository:https://github.com/Sangam5756/Weather_App.git
 2. Install dependencies: npm install
-3. Start the development server: npm run dev
+3. cd Weather-App
+4. Start the development server: npm run dev
 
 
 ## Usage
