@@ -2,6 +2,7 @@
 
 This is a simple weather app built with React that allows users to search for weather information by city name. It retrieves data from the OpenWeatherMap API and displays temperature, humidity, and weather description for the specified city.
 
+
 ## Live Demo
 
 Try out the live demo [here](https://weather-app-weor.onrender.com/).
